@@ -1,0 +1,12 @@
+testeAtivarEmpresaComSenhaInvalidaSemCaractereEspecial,emailAdmin,senhaAdmin,cnpjEmpresa,novaSenha, confirmaSenha
+,gestaosped@gmail.com,gestaospedadmin,39323446000192,Teste123, Teste123
+testeAtivarEmpresaComSenhaInvalidaSemCaractereMaiusculo,emailAdmin,senhaAdmin,cnpjEmpresa,novaSenha, confirmaSenha
+,gestaosped@gmail.com,gestaospedadmin,39323446000192,teste123!, teste123!
+testeAtivarEmpresaComSenhaInvalidaSemCaractereMinusculo,emailAdmin,senhaAdmin,cnpjEmpresa,novaSenha, confirmaSenha
+,gestaosped@gmail.com,gestaospedadmin,39323446000192,TESTE123!, TESTE123!
+testeAtivarEmpresaComSenhaInvalidaSemNumero,emailAdmin,senhaAdmin,cnpjEmpresa,novaSenha, confirmaSenha
+,gestaosped@gmail.com,gestaospedadmin,39323446000192,TesteABC!, TesteABC!
+testeAtivarEmpresaComSenhaInvalidaCaracteresInsuficientes,emailAdmin,senhaAdmin,cnpjEmpresa,novaSenha, confirmaSenha
+,gestaosped@gmail.com,gestaospedadmin,39323446000192,Tes123!, Tes123!
+testeAtivarEmpresaComSenhaInvalidaNaoCorrespondem,emailAdmin,senhaAdmin,cnpjEmpresa,novaSenha, confirmaSenha
+,gestaosped@gmail.com,gestaospedadmin,39323446000192,Teste123!, Teste12!
